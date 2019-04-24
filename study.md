@@ -71,7 +71,9 @@ In your own words, explain why developers should worry about making their
 applications accessible, and what it means to use "inclusive design".
 
 ```md
-<!-- your answer here -->
+Developers should build applications that are inclusive because people of all abilities
+may need access to the information. Also, it is legally responsible to have accessible
+applications.
 ```
 
 ## Question: Best Practices
@@ -81,7 +83,9 @@ what category of accessibility they fall into, and why they are
 best practices.
 
 ```md
-<!-- your answer here -->
+making layout clear
+- dont use wall of words, rather use lists
+- dont use bright colors
 ```
 
 ## Additional Resources
